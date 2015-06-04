@@ -15,7 +15,7 @@ Generating the rewrite map
 The console application takes two arguments: a path to a CSV file and the name of the rewrite map.
 
 
-    redirectmapgenerator.exe C:\redirects.csv "Website Cutover"
+    redirectmapgenerator.exe "redirects.csv" "Website Cutover"
 
 Inserting the rewrite map into a web.config
 -------------------------------------------

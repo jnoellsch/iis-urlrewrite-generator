@@ -11,6 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Settings.StyleCop = Settings.StyleCop
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binaries", "Binaries", "{951767E4-713B-4B33-A7CC-159894D31CD7}"
+	ProjectSection(SolutionItems) = preProject
+		Binaries\RedirectMapGenerator.exe = Binaries\RedirectMapGenerator.exe
+		Binaries\RedirectMapGenerator.pdb = Binaries\RedirectMapGenerator.pdb
+		Binaries\RedirectMapGenerator.vshost.exe = Binaries\RedirectMapGenerator.vshost.exe
+		Binaries\RedirectMapGenerator.vshost.exe.manifest = Binaries\RedirectMapGenerator.vshost.exe.manifest
+		Binaries\redirects.csv = Binaries\redirects.csv
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
