@@ -19,4 +19,4 @@ The console application takes two arguments: a path to a CSV file and the name o
 
 Inserting the rewrite map into a web.config
 -------------------------------------------
-The output file will be a properly structured rewrite map within a `web.config`. Copy and paste the `<rewriteMap>` entry to your existing web.config.
+The output file will be a properly structured rewrite map within a `web.config`. Copy and paste the `<rewriteMap>` entry to your existing web.config and configure the rewrite rule as needed.
